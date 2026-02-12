@@ -9,7 +9,7 @@ API_KEY = "*********************"
 API_URL = "https://******************************************"
 
 # Play.ht API key for text-to-speech
-PLAY_HT_API_KEY = "ak-f1b8973f03ee4e11a0b38f85120ca01c"
+PLAY_HT_API_KEY = "***************************"
 
 def generate_health_insights(symptoms):
     """
